@@ -1,6 +1,8 @@
-# 桌面电子时钟
+# 桌面电子时钟 v1.0
 
 一个轻量的 Windows 桌面悬浮时钟，使用 C# WinForms 编写，不依赖第三方库或额外字体。
+
+当前版本：**v1.0**，Windows 程序文件版本为 `1.0.0.0`。本次统一版本编号，保留现有全部功能。
 
 ## 功能
 
@@ -14,7 +16,7 @@
 
 ## 直接运行
 
-双击 `DesktopDigitalClock.exe`。软件不会修改系统设置，也不需要管理员权限。
+从 [v1.0 发布页](https://github.com/37f/DesktopDigitalClock/releases/tag/v1.0) 下载并双击 `DesktopDigitalClock-v1.0-win-x64.exe`。软件不会修改系统设置，也不需要管理员权限。
 
 GitHub 仓库的 `download` 目录提供 Windows x64 单文件 EXE 和 SHA-256 校验值。
 
